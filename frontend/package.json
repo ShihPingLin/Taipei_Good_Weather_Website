@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "homepage": "https://ShihPingLin.github.io/Taiwan_Good_Weather_Website",
+  "homepage": "https://ShihPingLin.github.io/Taiwan_Weather_Website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
